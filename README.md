@@ -12,10 +12,10 @@
   <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f5e205b3-452f-40fe-a290-cffc0000b339" />
   <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/603c8b96-bd73-4e15-bc33-aa114029a0b9" />
   
-8. 将导出的文件（.dat格式）使用word文档打开，并选择utf-8格式，可查看聊天记录
+8. 将导出的聊天记录文件（.dat格式）使用word文档打开，并选择utf-8格式，可查看聊天记录
 
 **----- step2：使用聊天数据进行训练，并进行有趣的模拟对话 -----**
-1. 将聊天记录文件复制到与couple_chatbot_main文件相同的路径下
+1. 将导出的聊天记录文件（.dat格式）复制到与couple_chatbot_main文件相同的路径下
    
    <img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/25888e4f-63ba-409c-99e5-a758ad5ce93c" />
    
