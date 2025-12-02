@@ -18,7 +18,7 @@
   <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f5e205b3-452f-40fe-a290-cffc0000b339" />
   <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/603c8b96-bd73-4e15-bc33-aa114029a0b9" />
   
-8. 将导出的聊天记录文件（.dat格式）使用word文档打开，并选择utf-8格式，可查看聊天记录
+8. 将导出的聊天记录文件（.dat格式）使用word文档打开，并选择utf-8格式，可查看聊天记录，这里需要记住对话的双方使用的名称是什么
 
 **----- step2：使用聊天数据进行训练，并进行有趣的模拟对话 -----**
 1. 将导出的聊天记录文件（.dat格式）复制到与couple_chatbot_main文件相同的路径下
@@ -26,7 +26,7 @@
    <img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/25888e4f-63ba-409c-99e5-a758ad5ce93c" />
    
 3. 使用编译器（如pycharm, vscode等）打开couple_chatbot_main文件，并运行
-4. 输入：1. 当前目录下聊天记录（.dat文件）的文件名；2. 你想要扮演的一方的微信昵称；3. 请输入对方的微信昵称（对方将在训练后对你输入的内容进行回应）
+4. 输入：1. 当前目录下聊天记录（.dat文件）的文件名；2. 你想要扮演的一方的名称（从聊天记录文件中查看）；3. 请输入对方的名称（从聊天记录文件中查看）
    
    <img width="627" height="99" alt="image" src="https://github.com/user-attachments/assets/c26f2dcf-e52d-4214-9e36-2747af31d95f" />
    
