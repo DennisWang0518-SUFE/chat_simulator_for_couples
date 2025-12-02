@@ -1,13 +1,13 @@
 **----- step1：用于训练的聊天数据的准备：（苹果设备使用者可直接跳转第5步） -----**
 1. 从微信将聊天记录迁移到苹果设备（iphone/ipad）：设置-聊天-聊天记录管理-导入与导出-导出到另一台手机或平板-后续操作按步骤完成即可
 2. 下载apple deveice，并连接苹果设备，选择“将ipad上所有的数据备份到此电脑”，点击“立即备份”，然后点击下方右侧的“停止”，因为需要将默认备份地址进行修改
-3. 
+
    <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/e9213d02-03c8-4409-960f-74eff0837112" />
    
-4. 如果备份空间不足，按照这篇笔记将备份默认地址从C盘迁移到足够空间的位置（苹果设备使用者）：[iTunes怎么改默认备份位置 - 小红书](https://www.xiaohongshu.com/explore/667133030000000006005fe9?xsec_token=ABWbK-cKq3EU927x6aLRuvbde5DdbMNUENYwXEQznqqHg=&xsec_source=pc_search&source=unknown)
-5. 备份默认地址迁移完成后，重新进行第2步，直到下方进度条完成
-6. 从github下载微信聊天记录导出器wechat exporter，并按照说明文档操作即可导出（直接翻到下面看readme）：https://github.com/BlueMatthew/WechatExporter?tab=readme-ov-file
-7. 打开wechat exporter，按照下方设置，仅导出聊天记录的文本
+3. 如果备份空间不足，按照这篇笔记将备份默认地址从C盘迁移到足够空间的位置（苹果设备使用者）：[iTunes怎么改默认备份位置 - 小红书](https://www.xiaohongshu.com/explore/667133030000000006005fe9?xsec_token=ABWbK-cKq3EU927x6aLRuvbde5DdbMNUENYwXEQznqqHg=&xsec_source=pc_search&source=unknown)
+4. 备份默认地址迁移完成后，重新进行第2步，直到下方进度条完成
+5. 从github下载微信聊天记录导出器wechat exporter，并按照说明文档操作即可导出（直接翻到下面看readme）：https://github.com/BlueMatthew/WechatExporter?tab=readme-ov-file
+6. 打开wechat exporter，按照下方设置，仅导出聊天记录的文本
    
   <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f5e205b3-452f-40fe-a290-cffc0000b339" />
   <img width="200" height="130" alt="image" src="https://github.com/user-attachments/assets/603c8b96-bd73-4e15-bc33-aa114029a0b9" />
